@@ -13,11 +13,7 @@
   margin-bottom: 12px;
 }
 
-p {
-  text-align: left;
-}
-
-p:last-child {
+.name {
   text-align: right;
   font-style: italic;
 }
